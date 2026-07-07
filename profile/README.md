@@ -193,9 +193,24 @@ Photos and videos from field deployment and system testing.
 
 ### Videos
 
+
+https://github.com/user-attachments/assets/03828fcf-77a3-4f05-aacb-f939496c2b60
+
+
+
 https://github.com/user-attachments/assets/7015dbd9-a0b1-4dbc-abb7-99c2aab64600
 
 https://github.com/user-attachments/assets/3827e6e6-752e-4893-a5f9-0cd35b2e7622
+
+
+
+https://github.com/user-attachments/assets/3a4c3f06-640c-4c8d-9e69-b56ee2ced1b4
+
+<img width="4032" height="3024" alt="2-h" src="https://github.com/user-attachments/assets/3d0f4661-3744-43ef-baed-ddfd5650ee5c" />
+
+
+https://github.com/user-attachments/assets/d41bb7e9-f28a-4f17-81b3-1bc361b43ede
+
 
 
 <img width="3024" height="4032" alt="1-v" src="https://github.com/user-attachments/assets/7e54da6d-4c07-4e65-a93a-f4f39d11a0a0" />
