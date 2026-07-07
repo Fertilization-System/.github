@@ -197,12 +197,5 @@ https://github.com/user-attachments/assets/7015dbd9-a0b1-4dbc-abb7-99c2aab64600
 
 https://github.com/user-attachments/assets/3827e6e6-752e-4893-a5f9-0cd35b2e7622
 
-https://github.com/user-attachments/assets/347ec04a-f059-4b99-88d9-315e9e093bd4
 
 <img width="3024" height="4032" alt="1-v" src="https://github.com/user-attachments/assets/7e54da6d-4c07-4e65-a93a-f4f39d11a0a0" />
-
-
-
-## License
-
-Copyright © 2026 [Misdar Manto](https://github.com/misdarmanto). All rights reserved.
